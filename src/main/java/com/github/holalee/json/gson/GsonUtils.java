@@ -12,7 +12,7 @@ import java.util.List;
 
 public class GsonUtils {
 
-    private static Logger logger = LoggerFactory.getLogger(GsonUtil.class);
+    private static Logger logger = LoggerFactory.getLogger(GsonUtils.class);
 
     private static Gson gson;
 
