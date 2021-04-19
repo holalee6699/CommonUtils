@@ -28,6 +28,12 @@ public class DateTimeUtils {
     public static LocalDate getCurrentLocalDate() {
         return LocalDate.now();
     }
+//    /**
+//     * 返回当前的日期
+//     */
+//    public static LocalDate getCurrentLocalDate() {
+//        return LocalDate.now();
+//    }
 
     /**
      * 返回当前时间
